@@ -1,0 +1,2 @@
+# RainBitcoins
+GetBit
